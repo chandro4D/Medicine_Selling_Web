@@ -1,0 +1,545 @@
+[
+    {
+    "id":1,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Lotion",
+    "Category": "babyCare",
+    "product_company": "Company A",
+    "price": 10.50,
+    "weight": "100ml"
+    },
+    {
+    "id": 2,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Wipes",
+    "Category": "babyCare",
+    "product_company": "Company B",
+    "price": 5.00,
+    "weight": "80 wipes"
+    },
+    {
+    "id": 3,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Shampoo",
+    "Category": "babyCare",
+    "product_company": "Company C",
+    "price": 7.25,
+    "weight": "200ml"
+    },
+    {
+    "id": 4,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Powder",
+    "Category": "babyCare",
+    "product_company": "Company D",
+    "price": 4.75,
+    "weight": "150gm"
+    },
+    {
+    "id": 5,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Diapers",
+    "Category": "babyCare",
+    "product_company": "Company E",
+    "price": 15.00,
+    "weight": "Varies by size"
+    },
+    {
+    "id": 6,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Teether",
+    "Category": "babyCare",
+    "product_company": "Company F",
+    "price": 3.25,
+    "weight": "50gm"
+    },
+    {
+    "id": 7,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Bottle",
+    "Category": "babyCare",
+    "product_company": "Company G",
+    "price": 8.99,
+    "weight": "250ml"
+    },
+    {
+    "id": 8,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Nail Clippers",
+    "Category": "babyCare",
+    "product_company": "Company H",
+    "price": 2.50,
+    "weight": "20gm"
+    },
+    {
+    "id": 9,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Wash",
+    "Category": "babyCare",
+    "product_company": "Company I",
+    "price": 9.75,
+    "weight": "500ml"
+    },
+    {
+    "id": 10,
+    "product_image": "https://stock.adobe.com/search?k=baby%20products",
+    "product_name": "Baby Monitor",
+    "Category": "babyCare",
+    "product_company": "Company J",
+    "price": 39.99,
+    "weight": "500gm"
+    },
+    {
+        "id": 11,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Facial Cleanser",
+        "Category": "womensCare",
+        "product_company": "Company A",
+        "price": 15.00,
+        "weight": "120ml"
+      },
+      {
+        "id": 12,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Moisturizer",
+        "Category": "womensCare",
+        "product_company": "Company B",
+        "price": 20.75,
+        "weight": "50gm"
+      },
+      {
+        "id": 13,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Serum",
+        "Category": "womensCare",
+        "product_company": "Company C",
+        "price": 32.50,
+        "weight": "30ml"
+      },
+      {
+        "id": 14,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Sunscreen",
+        "Category": "womensCare",
+        "product_company": "Company D",
+        "price": 18.99,
+        "weight": "60ml"
+      },
+      {
+        "id": 15,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Eye Cream",
+        "Category": "womensCare",
+        "product_company": "Company E",
+        "price": 24.00,
+        "weight": "15ml"
+      },
+      {
+        "id": 16,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Makeup Remover",
+        "Category": "womensCare",
+        "product_company": "Company F",
+        "price": 10.50,
+        "weight": "200ml"
+      },
+      {
+        "id": 17,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Body Lotion",
+        "Category": "womensCare",
+        "product_company": "Company G",
+        "price": 12.99,
+        "weight": "250ml"
+      },
+      {
+        "id": 18,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Hair Shampoo",
+        "Category": "womensCare",
+        "product_company": "Company H",
+        "price": 8.25,
+        "weight": "350ml"
+      },
+      {
+        "id": 19,
+        "product_image": "https://imageskincare.com/",
+        "product_name": "Hair Conditioner",
+        "Category": "womensCare",
+        "product_company": "Company I",
+        "price": 7.75,
+        "weight": "350ml"
+      },
+      {
+        "id": 20,
+        "product_name": "Body Wash",
+        "Category": "womensCare",
+        "product_company": "Company J",
+        "price": 9.99,
+        "weight": "500ml",
+        "product_image": "https://imageskincare.com/"
+      },
+      {
+        "id": 21,
+        "product_image": "[https://www.webmd.com/drugs/2/drug-362/acetaminophen-oral/details](https://www.webmd.com/drugs/2/drug-362/acetaminophen-oral/details)",
+        "product_name": "Acetaminophen",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": 5.99,
+        "weight": "Per tablet (varies by brand)"
+      },
+      {
+        "id": 22,
+        "product_image": "[https://www.webmd.com/drugs/2/drug-5166-9368/ibuprofen-oral/ibuprofen-oral/details](https://www.webmd.com/drugs/2/drug-5166-9368/ibuprofen-oral/ibuprofen-oral/details)",
+        "product_name": "Ibuprofen",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": 7.25,
+        "weight": "Per tablet (varies by brand)"
+      },
+      {
+        "id": 23,
+        "product_image": "[https://www.mayoclinic.org/diseases-conditions/allergies/in-depth/allergy-medications/art-20047403](https://www.mayoclinic.org/diseases-conditions/allergies/in-depth/allergy-medications/art-20047403)",
+        "product_name": "Loratadine (Claritin)",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": 10.50,
+        "weight": "Per tablet (varies by brand)"
+      },
+      {
+        "id": 24,
+        "product_image": "[https://www.nhs.uk/conditions/decongestants/](https://www.nhs.uk/conditions/decongestants/)",
+        "product_name": "Pseudoephedrine (Sudafed)",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": 8.75,
+        "weight": "Per tablet (varies by brand)"
+       
+      },
+      {
+        "id": 25,
+        "product_image": "[https://www.webmd.com/drugs/2/drug-1082-3/aspirin-oral/aspirin-oral/details](https://www.webmd.com/drugs/2/drug-1082-3/aspirin-oral/aspirin-oral/details)",
+        "product_name": "Aspirin",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": 3.99,
+        "weight": "Per tablet (varies by brand)"
+      },
+      {
+        "id": 26,
+        "product_image": "[https://www.webmd.com/sex/birth-control/birth-control-pills](https://www.webmd.com/sex/birth-control/birth-control-pills)",
+        "product_name": "Not applicable (prescription medication)",  
+        "Category": "tablet",
+        "product_company": "N/A",
+        "price": "N/A",
+        "weight": "N/A"
+      },
+      {
+        "id": 27,
+        "product_image": "N/A",  
+        "product_name": "Not applicable (prescription medication)",  
+        "Category": "tablet",
+        "product_company": "N/A",
+        "price": "N/A",
+        "weight": "N/A"
+      },
+      {
+        "id": 28,
+        "product_image": "https://www.hs.uk/conditions/statins/",     
+        "product_name": "Cholesterol Medication (Various)",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": "Prescription Required",
+        "weight": "Varies by medication"
+        },
+        {
+        "id": 29,
+        "product_image": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/medicines-and-psychiatry/antidepressants/overview/",
+        "product_name": "Antidepressants (Various)",
+        "Category": "tablet",
+        "product_company": "Various",
+        "price": "Prescription Required",
+        "weight": "Varies by medication"
+        },
+        {
+        "id": 30,
+        "product_image": "https://www.webmd.com/diabetes/default.htm",
+       
+        "product_name": "Diabetes Medication (Various)",
+        "Category": "tablet",
+        
+        "product_company": "Various",
+        "price": "Prescription Required",
+        "weight": "Varies by medication"
+        },
+        {
+            "id": 31,
+            "product_image": " ",  
+            "product_name": "Cough Syrup (Children's)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 8.99,
+            "weight": "100ml"
+            },
+            {
+            "id": 32,
+            "product_image": " ",
+            "product_name": "Cough Syrup (Adults)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 9.75,
+            "weight": "200ml"
+            },
+            {
+            "id": 33,
+            "product_image": " ",
+            "product_name": "Diphenhydramine (Benadryl Allergy Relief)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 7.25,
+            "weight": "100ml"
+            },
+            {
+            "id": 34,
+            "product_image": " ",
+            "product_name": "Loratadine (Claritin Allergy Relief)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 11.50,
+            "weight": "120ml"
+            },
+            {
+            "id": 35,
+            "product_image": " ",
+            "product_name": "Cetirizine (Zyrtec Allergy Relief)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 10.25,
+            "weight": "150ml"
+            },
+            {
+            "id": 36,
+            "product_image": " ",
+            "product_name": "Antacid Syrup",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 6.99,
+            "weight": "200ml"
+            },
+            {
+            "id": 37,
+            "product_image": " ",
+            "product_name": "Dextromethorphan (Cough Suppressant)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 5.75,
+            "weight": "100ml"
+            },
+            {
+            "id": 38,
+            "product_image": " ",
+            "product_name": "Famotidine (Pepcid AC) for Heartburn Relief",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 9.99,
+            "weight": "150ml"
+            },
+            {
+            "id": 39,
+            "product_image": " ",
+            "product_name": "Ibuprofen (Pain Relief)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 8.25,
+            "weight": "100ml"
+            },
+            {
+            "id": 40,
+            "product_image": " ",
+            "product_name": "Acetaminophen (Pain Relief)",
+            "Category": "syrup",
+            "product_company": "Various",
+            "price": 7.50,
+            "weight": "120ml"
+            },
+            {
+                "id": 41,
+                "product_image": " ",
+                "product_name": "Fish Oil (Omega-3 Supplement)",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 14.99,
+                "weight": "1000mg (per capsule)"
+                },
+                {
+                "id": 42,
+                "product_image": " ",
+                "product_name": "Vitamin D3",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 10.75,
+                "weight": "1000 IU (per capsule)"
+                },
+                {
+                "id": 43,
+                "product_image": " ",
+                "product_name": "Multivitamin",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 12.50,
+                "weight": "Varies by brand"
+                },
+                {
+                "id": 44,
+                "product_image": " ",
+                "product_name": "Probiotic",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 18.99,
+                "weight": "Varies by brand (CFU)"
+                },
+                {
+                "id": 45,
+                "product_image": " ",
+                "product_name": "Melatonin (Sleep Aid)",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 9.25,
+                "weight": "Varies by brand (mg)"
+                },
+                {
+                "id": 46,
+                "product_image": " ",
+                "product_name": "Cranberry Extract (Urinary Tract Health)",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 8.50,
+                "weight": "Varies by brand (mg)"
+                },
+                {
+                "id": 47,
+                "product_image": " ",
+                "product_name": "Curcumin (Anti-inflammatory)",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 15.99,
+                "weight": "Varies by brand (mg)"
+                },
+                {
+                "id": 48,
+                "product_image": " ",
+                "product_name": "Glucosamine (Joint Health)",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 13.75,
+                "weight": "Varies by brand (mg)"
+                },
+                {
+                "id": 49,
+                "product_image": " ",
+                "product_name": "Biotin (Hair & Nail Health)",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 7.99,
+                "weight": "Varies by brand (mg)"
+                },
+                {
+                "id": 50,
+                "product_image": " ",
+                "product_name": "Iron",
+                "Category": "capsule",
+                "product_company": "Various",
+                "price": 6.25,
+                "weight": "Varies by brand (mg)"
+                },
+                {
+                    "id": 51,
+                    "product_image": "[image of insulin injection]",
+                    "product_name": "Insulin",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Prescription Required", 
+                    "weight": "Varies by dosage (units/mL)"
+                  },
+                  {
+                    "id": 52,
+                    "product_image": "[image of allergy injection]",
+                    "product_name": "Allergy Medication (e.g., Epinephrine)",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Prescription Required", 
+                    "weight": "Varies by dosage (mg/mL)"
+                  },
+                  {
+                    "id": 53,
+                    "product_image": "[image of vitamin B12 injection]",
+                    "product_name": "Vitamin B12",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Prescription Required", 
+                    "weight": "Varies by dosage (mcg/mL)"
+                  },
+                  {
+                    "id": 54,
+                    "product_image": "[image of testosterone injection]",
+                    "product_name": "Testosterone",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Prescription Required",  
+                    "weight": "Varies by dosage (mg/mL)"
+                  },
+                  {
+                    "id": 55,
+                    "product_image": "[image of botox injection]",
+                    "product_name": "Botox (Cosmetic)",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Varies by provider", 
+                    "weight": "Varies by dosage (units)"
+                  },
+                  {
+                    "id": 56,
+                    "product_image": "[image of flu vaccine]",
+                    "product_name": "Flu Vaccine (Seasonal)",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "May vary (often covered by insurance)",
+                    "weight": "Varies by dosage (mL)"
+                  },
+                  {
+                    "id": 57,
+                    "product_image": "[image of other vaccine]",  
+                    "product_name": "Other Vaccines (e.g., Shingles, Tdap)",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "May vary (often covered by insurance)",
+                    "weight": "Varies by dosage (mL)"
+                  },
+                  {
+                    "id": 58,
+                    "product_image": "[image of cortisone injection]",
+                    "product_name": "Corticosteroid Injection",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Prescription Required", 
+                    "weight": "Varies by dosage (mg/mL)"
+                  },
+                  {
+                    "id": 59,
+                    "product_image": "[image of filler injection]",
+                    "product_name": "Filler (Cosmetic)",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Varies by provider",  
+                    "weight": "Varies by dosage (mL)"
+                  },
+                  {
+                    "id": 60,
+                    "product_image": "[image of botox injection]",  
+                    "product_name": "Other Injectable Medications",
+                    "Category": "injection",
+                    "product_company": "Various",
+                    "price": "Prescription Required",  
+                    "weight": "Varies by medication"
+                  }
+    ]
